@@ -79,10 +79,11 @@
 6. **LT and LTV Trends by Month:**  
    Тренди по тривалості користування продуктом (LT) і довгостроковій вартості клієнта (LTV) по місяцях.
 
-**Щоб переглянути Tableau візуалізації:**
+**Візуалізація**
 
-1. Завантажте файл `.twb` з папки `tableau_viz/`.
-2. Відкрийте його в Tableau для інтерактивного перегляду.
+Нижче ви можете побачити зображення з календарем з Tableau:
+
+<img src="./tableau_viz/revenue_metrics.png" alt="Діаграма з Tableau" width="500" height="400">
 
 Також ви можете переглянути інтерактивні візуалізації на [Tableau Public](https://public.tableau.com/views/Revenuemetrics_17371331066470/Revenuemetrics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
